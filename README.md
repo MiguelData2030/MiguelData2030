@@ -11,7 +11,7 @@
 - 📫 Me puedes Contactar **miguelalejandro21777@hotmail.com**
 - 💬 Hazme preguntas de ? **Python, Pandas, Sql, Tableau, Power Bi, Algoritmos de Aprendizaje Automatico,**
 - 🌱 Actualmente estoy aprendiendo **, Deep Learning, Mathematics for Machine Learning: Linear Algebra,Programa especializado: PostgreSQL for Everybody,Web Scraping**
-
+<div align="left">
 ---   
  <h3 align="left">Connect with me:</h3>
 <p align="left">
