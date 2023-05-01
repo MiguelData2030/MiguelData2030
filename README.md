@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="https://i.gifer.com/FN7y.gif" width="200" />
 
 <h1 align="center">Hola👋, Mi Nombre es Miguel Londoño</h1>
 <h3 align="center">Soy un apasionado por los datos porque creo que la información es la clave para tomar decisiones informadas y resolver problemas complejos. Me encanta trabajar con datos porque me permite descubrir patrones y tendencias que no son evidentes a simple vista,Mi pasión por los datos viene de mi deseo de comprender mejor el mundo que nos rodea a través del análisis riguroso y objetivo de la información</h3>
