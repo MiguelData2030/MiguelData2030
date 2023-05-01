@@ -5,13 +5,15 @@
 <h1 align="center">Hola👋, Mi Nombre es Miguel Londoño</h1>
 <h3 align="center">Soy un apasionado por los datos porque creo que la información es la clave para tomar las mejores decisiones y resolver problemas complejos. Me encanta trabajar con datos porque me permite descubrir patrones y tendencias que no son evidentes a simple vista, Mi pasión por los datos viene de mi deseo de comprender mejor el mundo que nos rodea a través del análisis riguroso y objetivo de la información</h3>
 
-    
+---   
 ### 👨‍💻 Acerca de mi :
     
 - 📫 Me puedes Contactar **miguelalejandro21777@hotmail.com**
 - 💬 Hazme preguntas de ? **Python, Pandas, Sql, Tableau, Power Bi, Algoritmos de Aprendizaje Automatico,  **
 - 🌱 Actualmente estoy aprendiendo **, Deep Learning, Mathematics for Machine Learning: Linear Algebra,Programa especializado: PostgreSQL for Everybody,Web Scraping**
-<h3 align="left">Connect with me:</h3>
+
+    
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
