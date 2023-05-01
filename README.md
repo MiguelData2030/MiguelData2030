@@ -8,10 +8,10 @@
 ---   
 ### 👨‍💻 Acerca de mi :
     
-- 📫 Me puedes Contactar **miguelalejandro21777@hotmail.com**   
-- 💬 Hazme preguntas de ? **Python, Pandas, Sql, Tableau, Power Bi, Algoritmos de Aprendizaje Automatico,**
+-       📫 Me puedes Contactar **miguelalejandro21777@hotmail.com**   
+-       💬 Hazme preguntas de ? **Python, Pandas, Sql, Tableau, Power Bi, Algoritmos de Aprendizaje Automatico,**
 
-- 🌱 Actualmente estoy aprendiendo **, Deep Learning, Mathematics for Machine Learning: Linear Algebra,Programa especializado,Web Scraping**
+-       🌱 Actualmente estoy aprendiendo **, Deep Learning, Mathematics for Machine Learning: Linear Algebra,Programa especializado,Web Scraping**
 
 ---   
 
